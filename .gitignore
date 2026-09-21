@@ -6,3 +6,19 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Temporary scraping / processing artifacts
+yt-dlp
+*.part
+*.ytdl
+*.vtt
+*.mp3
+*.jpg
+*.jpeg
+*.png
+proxies.txt
+working_proxy.txt
+video_info.json
+clean_cues.json
+en_caption_url.txt
+en_subtitles.json
