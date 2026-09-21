@@ -1,0 +1,6 @@
+{
+  "name": "Kimjang Quiz Video Extractor",
+  "description": "Extracted MP4 clips and interactive answer checker for Slides 6-10 from the UNESCO Kimjang video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
